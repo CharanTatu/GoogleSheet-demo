@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833513340165",
+    "project_id": "global-exchange-351306",
+    "storage_bucket": "global-exchange-351306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833513340165:android:87f7fb22f04b0c07700b6c",
+        "android_client_info": {
+          "package_name": "com.googlesheetpoc1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833513340165-q2vtem8rho5frm7rk6jcbqkr6j456hp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQGJCE41W_7U3iqeglcAW7LBb5JMIDGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833513340165-q2vtem8rho5frm7rk6jcbqkr6j456hp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
