@@ -17,8 +17,10 @@
     "axios": "^0.27.2",
     "react": "16.13.1",
     "react-native": "0.63.0",
+    "react-native-google-speech-to-text": "^1.0.4",
     "react-native-safe-area-context": "^3.1.8",
-    "react-native-screens": "^3.13.1"
+    "react-native-screens": "^3.13.1",
+    "react-native-vector-icons": "^9.1.0"
   },
   "devDependencies": {
     "@babel/core": "7.18.0",

@@ -55,7 +55,7 @@ function Loginscreen({ navigation }) {
         <View >
             <Text style={{
                 alignItems: 'center', backgroundColor: 'blue',
-                justifyContent: 'center', height: 50, textAlign: 'center',
+                justifyContent: 'center', height: 50, textAlign: 'center', fontSize: 20, fontWeight: "bold"
             }} >Welcome!!</Text>
             <View>
                 {/* <Button title='Log-out' onPress={signOut} /> */}
